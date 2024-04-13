@@ -1,4 +1,4 @@
-# Hey, I'm Vicente]! 👋
+# Hey, I'm Vicente! 👋
 <div id="badges">
   <a href="https://www.linkedin.com/in/vicenteblasini/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -25,7 +25,7 @@ Welcome to my GitHub space where data meets innovation! 🚀
 3. **[Python-Powered API Exploration with NLP and PostgreSQL 🐍🌐](https://github.com/VicenteBlasini/Python-Powered-API-Exploration-with-NLP-and-PostgreSQL)**
    Explore APIs, perform NLP tasks, and store data in a PostgreSQL database for analysis.
    
-### :hammer_and_wrench: Languages and Tools :
+### 💡 Languages and Tools :
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="postgres" alt="postgres" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="python" alt="python" width="55" height="55"/>
