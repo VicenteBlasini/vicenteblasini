@@ -1,9 +1,6 @@
 # Hey, I'm Vicente! 👋
-<div id="badges">
-  <a href="https://www.linkedin.com/in/vicenteblasini/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
+<a href="mailto:vicenteblasini@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/vicenteblasini/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 
 Welcome to my GitHub space where data meets innovation! 🚀
 
